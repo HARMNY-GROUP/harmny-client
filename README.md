@@ -1,6 +1,6 @@
 <div align="center"><img align="center" width="640" height="360" alt="HARMNY_26_banner" src="https://github.com/user-attachments/assets/636fc1b9-b391-4aec-beb2-31cbcaf20426"></div>
 
-<h1 align="center">HARMNY Client</h1>
+<h1 align="center">HARMNY Client 26</h1>
 <p align="center"><i>A fast, portable and customizable collection of productivity tools, entertainment, and more!</i></p>
 <div align="center">
 <a href="https://github.com/HARMNY-GROUP/harmny-client/stargazers"><img src="https://img.shields.io/github/stars/HARMNY-GROUP/harmny-client" alt="Stars Badge"/></a>
