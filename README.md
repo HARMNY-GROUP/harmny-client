@@ -26,3 +26,7 @@ Contributions are always welcome! If you have any ideas or issues, please make a
 ## :pencil: License
 
 This project is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+
+## Help us translate Harmny correctly ✍️
+
+<img width="200" height="100" alt="helpustranslate" src="https://github.com/user-attachments/assets/5cd76dae-f2c8-4b61-8754-962f7ad34977" />
